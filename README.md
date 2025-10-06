@@ -40,7 +40,7 @@ A EverPia treballem amb la metodologia **Kanban**, utilitzant **Microsoft Planne
 
 ---
 
-## 📋 Reptes i Projectes
+##  Reptes i Projectes
 
 Durant la vostra estada a EverPia, participareu en projectes de naturalesa molt diversa, com ara:
 
