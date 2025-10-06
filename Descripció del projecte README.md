@@ -1,6 +1,6 @@
 # EverPia – Consultoria IT amb ànima educativa
 
-# si vols anar a les carpetes de tasques
+## si vols anar a les carpetes de tasques
 [tasca2](tasca2/README.md)
 [tasca3](tasca3/README.md)
 
