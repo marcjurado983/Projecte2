@@ -4,7 +4,7 @@
 
 La situació que tenim és un petit despatx amb 4 estacions de treball, 1 impressora-fotocopiadora multifunció i 1 router d’accés a Internet.
 
-![Taula de tots els components del SAI](img/.png)
+![Taula de tots els components del SAI](img/taula.png)
 
 
 ---
