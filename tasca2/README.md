@@ -56,5 +56,5 @@ Redactar un **informe final** que inclogui:
 
 L’objectiu és oferir una **solució fiable i rendible** que asseguri la continuïtat del servei de TecnoGestió S.L. davant talls elèctrics i protegeixi els equips informàtics de possibles danys derivats de fluctuacions o interrupcions de corrent.
 
-[Projecte2(/tasca2/solucio.md)]
+[tasca2](tasca2/solucio.md)
 
