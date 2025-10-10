@@ -1,7 +1,5 @@
 ## Seguretat Lògica: recuperant accés a sistemes
 
-# README.md
-
 ## Informació de l'activitat
 
 Després de la primera feina exitosa, us arriba un encàrrec urgent que obliga a que us hi poseu per donar-li solució.
