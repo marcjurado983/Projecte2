@@ -8,3 +8,4 @@
 ![maquina virtual](img/capnou.png)
 ![maquina virtual](img/capdeu.png)
 ![maquina virtual](img/caponce.png)
+![maquina virtual](img/capdotze.png)
