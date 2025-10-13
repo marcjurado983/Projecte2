@@ -1,5 +1,6 @@
 ## GUIA DE SEGUIMENT DE LA MAQUINA VIRTUAL
 ![maquina virtual](img/primeracap.png.png)
+En primer lloc crearem la maquina virtual amb
 ![maquina virtual](img/segonacap.png)
 ![maquina virtual](img/terceracap.png)
 ![maquina virtual](img/cuartacap.png)
