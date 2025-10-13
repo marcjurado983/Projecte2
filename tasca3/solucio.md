@@ -2,3 +2,4 @@
 ![maquina virtual](img/primeracap.png.png)
 ![maquina virtual](img/segonacap.png)
 ![maquina virtual](img/terceracap.png)
+![maquina virtual](img/cuartacap.png)
