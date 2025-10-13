@@ -9,3 +9,4 @@
 ![maquina virtual](img/capdeu.png)
 ![maquina virtual](img/caponce.png)
 ![maquina virtual](img/capdotze.png)
+![maquina virtual](img/captrece.png)
