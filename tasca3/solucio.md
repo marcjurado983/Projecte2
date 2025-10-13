@@ -5,3 +5,5 @@
 ![maquina virtual](img/cuartacap.png)
 ![maquina virtual](img/cinccap.png)
 ![maquina virtual](img/siscap.png)
+![maquina virtual](img/capnou.png)
+![maquina virtual](img/capdeu.png)
