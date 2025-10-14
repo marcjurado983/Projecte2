@@ -10,3 +10,11 @@
 ![maquina virtual](img/caponce.png)
 ![maquina virtual](img/capdotze.png)
 ![maquina virtual](img/captrece.png)
+
+
+
+
+
+links info
+https://geekland.eu/proteger-el-grub-con-contrasena/
+https://www.jose-web.es/como-poner-contrasena-en-grub/
