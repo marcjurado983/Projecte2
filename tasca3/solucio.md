@@ -20,13 +20,41 @@ https://geekland.eu/proteger-el-grub-con-contrasena/
 https://www.jose-web.es/como-poner-contrasena-en-grub/
 
 # Guia
-1. Principalment crearem la maquina virtual amb la ova dins la carpeta de seguretat que ens va donar en Carlos
-2. seguidament haurem de posar 2 cores de Cpu i 8 GB de RAM
-3. Aquesta Maquina es Zorin, entrarem a la boot amb el mayus, i entrem al recovery en el nostre cas perque volem canviar la contrasenya
-4. Tenim el menu de recuperacio, click al root per entrar, i començrem a posar comandes, amb el ls podrem veure quin es el usuari de el ordinador, i canviarem la contrasenya amb el passwd i el usuari, primer pas ja fet, guardarem les opcion correctament i sortirem direccio a entrar dins la maquina,
-5. a continuacio entrarem a la conta de miquel, amb la nova contrasenya, com veiem ja estem dins.
-6. Ara el que volem es fortificar la contrasenya, per aixo volem que ens doni la contrasenya hash, i l'haurem de copiar a dins el archiu en aquest cas el 40_custom
-7. Dins l'archiu entrant amb el sudo nano, posarem el superusuari i la contrasenya de el hash la enganxem darrera i abaix.
-8. I guardarem tot
-9. seguidament volem entrar normal dins el archiu pero volem posar mes seguretat dins la bios per posar mes proteccio
-10. Per aixo entrarem al archiu de 2024, de 10_linux, en aqui haurem de canviar una configuració del menuentry de darrera el class posem unrestricted perque no hi hagi contrasenya, i per desar els canvis es o update grub2 o update grub, en el meu cas miranho amb en Carlos vam poder posar contrasenya normal, pero finalment al recovery no funcionava.
+1. Creació de la màquina virtual
+
+Principalment crearem la màquina virtual amb la OVA dins la carpeta de seguretat que ens va donar en Carlos.
+
+2. Configuració dels recursos
+
+Seguidament haurem de posar 2 nuclis de CPU i 8 GB de RAM.
+
+3. Accés al mode de recuperació
+
+Aquesta màquina és Zorin. Entrarem a la boot amb la tecla de majúscules i accedirem al mode de recuperació, en el nostre cas perquè volem canviar la contrasenya.
+
+4. Canvi de contrasenya
+
+Tenim el menú de recuperació, fem clic a root per entrar i començarem a posar les ordres necessàries. Podrem veure quin és l’usuari de l’ordinador i canviarem la contrasenya. Primer pas fet, guardarem les opcions correctament i sortirem per entrar dins la màquina.
+
+5. Accés amb la nova contrasenya
+
+A continuació entrarem al compte de Miquel amb la nova contrasenya. Com veiem, ja estem dins.
+
+6. Fortificació de la contrasenya
+
+Ara el que volem és fortificar la contrasenya, per això volem obtenir la contrasenya hash i l’haurem de copiar dins l’arxiu, en aquest cas el 40_custom.
+
+7. Modificació de l’arxiu 40_custom
+
+Dins l’arxiu, entrant amb permisos de superusuari, posarem el superusuari i la contrasenya hash enganxada a la part final del document.
+
+8. Guardar els canvis
+
+Un cop feta la modificació, guardarem tot.
+
+9. Afegir seguretat a la BIOS
+
+Seguidament volem entrar de manera normal dins el sistema, però volem afegir més seguretat a la BIOS per posar més protecció.
+
+10. Modificació de l’arxiu 10_linux
+
