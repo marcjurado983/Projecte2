@@ -12,8 +12,8 @@
 ![maquina virtual](img/captrece.png)
 ![maquina virtual](img/cap45.png)
 ![maquina virtual](img/cap70.png)
-
-
+![maquina virtual](img/cap90.png)
+![maquina virtual](img/cap91.png)
 
 # links info
 https://geekland.eu/proteger-el-grub-con-contrasena/
