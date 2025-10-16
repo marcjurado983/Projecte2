@@ -29,4 +29,4 @@ https://www.jose-web.es/como-poner-contrasena-en-grub/
 7. Dins l'archiu entrant amb el sudo nano, posarem el superusuari i la contrasenya de el hash la enganxem darrera i abaix.
 8. I guardarem tot
 9. seguidament volem entrar normal dins el archiu pero volem posar mes seguretat dins la bios per posar mes proteccio
-10. Per aixo
+10. Per aixo entrarem al archiu de 2024, de 10_linux, en aqui haurem de canviar una configuració del menuentry de darrera el class posem unrestricted perque no hi hagi contrasenya, i per desar els canvis es o update grub2 o update grub, en el meu cas miranho amb en Carlos vam poder posar contrasenya normal, pero finalment al recovery no funcionava.
