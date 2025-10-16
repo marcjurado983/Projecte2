@@ -15,6 +15,9 @@
 
 
 
-links info
+# links info
 https://geekland.eu/proteger-el-grub-con-contrasena/
 https://www.jose-web.es/como-poner-contrasena-en-grub/
+
+#Guia
+1.
