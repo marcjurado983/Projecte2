@@ -33,12 +33,10 @@ Investigueu el procediment per tal que l’accés al **GRUB** quedi protegit per
   3. Inicieu la màquina virtual i accediu a la consola/entorn per procedir amb la recuperació de l'accés.
 
 ## Imatges del procediment 
-[solucio.md](Projecte2/tasca3/solucio.md)
+[Veure la solució](solucio.md)
 ---
 
 
-
----
 
 
 
