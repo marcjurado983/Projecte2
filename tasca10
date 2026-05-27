@@ -1,1 +1,159 @@
+# T10: Màsterclass de Markdown
+
+## 🏢 Introducció
+
+A la consultora **EverPia** tenim una norma d’or:
+
+> 📌 La documentació és tan important com el codi.
+
+Els clients no només volen sistemes que funcionin, sinó també:
+
+- informes clars,
+- documentació estructurada,
+- i explicacions entenedores.
+
+---
+
+# 📘 Markdown com a estàndard professional
+
+A EverPia utilitzem un llenguatge de documentació estàndard:
+
+# 🧾 Markdown
+
+Aquest format és utilitzat habitualment en:
+
+- GitHub
+- GitLab
+- documentació tècnica
+- manuals de sistemes
+- blogs tècnics
+
+---
+
+# 🎯 Objectiu de la tasca
+
+En aquesta activitat passareu de zero coneixement a dominar els fonaments de Markdown per poder:
+
+- estructurar documents tècnics,
+- redactar informes professionals,
+- i integrar la documentació dins del flux de treball amb GitHub.
+
+---
+
+# 🧠 Objectius d’aprenentatge
+
+## 📌 Conceptes clau
+
+- Comprendre què és Markdown
+- Entendre per què s’utilitza en entorns professionals
+
+---
+
+## 🏗️ Estructuració de documents
+
+- títols i subtítols
+- jerarquia de continguts
+- organització clara de la informació
+
+---
+
+## 📋 Llistes
+
+### ✔️ Llistes no ordenades
+- element 1
+- element 2
+- element 3
+
+### 🔢 Llistes ordenades
+1. primer pas
+2. segon pas
+3. tercer pas
+
+---
+
+## 📊 Taules comparatives
+
+Permeten comparar:
+
+- serveis
+- opcions de hosting
+- configuracions
+- característiques tècniques
+
+Exemple:
+
+| Servei | Preu | Funcionalitats | Valoració |
+|--------|------|----------------|----------|
+| A      | 0€   | bàsic          | ⭐⭐⭐     |
+| B      | 5€   | avançat        | ⭐⭐⭐⭐    |
+
+---
+
+## ☑️ Checklists
+
+Permeten controlar tasques:
+
+- [x] requisit complert
+- [ ] requisit pendent
+- [ ] revisió final
+
+---
+
+## 🔗 Enllaços i imatges
+
+### Enllaços
+- https://github.com/
+
+### Imatges
+Permeten enriquir la documentació tècnica amb recursos visuals.
+
+---
+
+# 🔧 Integració amb GitHub
+
+Markdown és la base de:
+
+- README.md
+- documentació de repositoris
+- guies tècniques
+- manuals operatius
+
+---
+
+# 🚀 Aplicació pràctica
+
+Durant aquesta tasca haureu de:
+
+- crear documents en Markdown,
+- estructurar informació tècnica,
+- i aplicar bones pràctiques de documentació.
+
+---
+
+# 📚 Material de suport
+
+## 📖 Índex del manual de Markdown
+
+👉 Enllaç al manual:  
+https://github.com/SMX2n/Markdown-Index
+
+---
+
+# 🧠 Competències treballades
+
+## 📝 Documentació tècnica
+- estructuració de documents
+- redacció clara i professional
+
+## 🧾 Markdown
+- sintaxi bàsica i avançada
+- taules i checklists
+- enllaços i multimèdia
+
+## 💼 Entorn professional
+- documentació en IT
+- estàndards de la indústria
+- integració amb GitHub
+
+---
 
